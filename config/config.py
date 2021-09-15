@@ -1,4 +1,4 @@
-token: str = "ODg0ODU3NzMzOTMxNzI4OTY3.YTel-w.AGm7yLq_oPjDAh7z19IFwhHp_eQ"
+token: str = "ODg0ODU3NzMzOTMxNzI4OTY3.YTel-w.3zc3q52OWIMkbQqQRWfgpBtc3A0"
 DEFAULT_NICKNAME = "earphones"
 
 STARTUP_MESSAGE = "Starting Bot..."
